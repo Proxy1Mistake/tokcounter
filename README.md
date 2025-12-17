@@ -1,4 +1,5 @@
 <h2 align = "center">
+<img src = "https://tokcounter.com/static/logo-small.webp", width = "150px", heigh = "150px">
 <br></br>tokcounter
 </h2>
 
