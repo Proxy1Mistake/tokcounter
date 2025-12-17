@@ -1,11 +1,11 @@
 <h2 align = "center">
-<br></br>tokcount
+<br></br>tokcounter
 </h2>
 
 <details>
 <summary>ENG : </summary>
 
-###### ᴛʜɪs ʟɪʙʀᴀʀʏ ɪs ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ sɪᴛᴇ tokcount
+###### ᴛʜɪs ʟɪʙʀᴀʀʏ ɪs ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ sɪᴛᴇ tokcounter
 
 ###### example :
 ```py3
@@ -28,7 +28,7 @@ print(tok_c.stats(id = 6948381589781660678))
 <details>
 <summary>RU : </summary>
 
-###### эта библиотека предназначена для парсинка tokcount
+###### эта библиотека предназначена для парсинка tokcounter
 
 ###### example :
 ```py3
