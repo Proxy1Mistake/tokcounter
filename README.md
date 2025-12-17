@@ -1,6 +1,5 @@
 <h2 align = "center">
-<img src = "https://randstuff.ru/favicon-120x120.png">
-<br></br>RandStuff
+<br></br>tokcount
 </h2>
 
 <details>
